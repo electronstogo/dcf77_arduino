@@ -1,0 +1,12 @@
+{
+  "name": "dcf77_arduino",
+  "version": "1.0.0",
+  "keywords": "dcf77, time",
+  "description": "Read the DCF77 time with a DCF77 receiver module.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/electronstogo/dcf77_arduino.git"
+  },
+  "frameworks": "arduino"
+}
